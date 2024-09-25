@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.gapped {
+  gap: 0.5rem;
+}
+
+.margined {
+  margin: 0.5rem;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
